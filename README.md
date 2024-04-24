@@ -16,7 +16,10 @@ nah file service_account.json kita copy kan juga kedalam folder .gis
 
 
 # Cara Menjalankan
-ketik : npm run index www.namawebsiteanda.com atau jika tidak jalan bisa gunakan 
+ketik : npm run index www.namawebsiteanda.com 
+
+atau jika tidak jalan bisa gunakan 
+
 ketik : google-indexing-script www.websiteanda.com
 
 Tunggu hasilnya hingga selesai
