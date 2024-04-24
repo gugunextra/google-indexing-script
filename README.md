@@ -1,3 +1,28 @@
+#  Tutorial Saya
+Download Repository ini, lalu ekstak zip nya. Buka folder hasil ekstraknya, buka cmd nya lalu jalan kan 
+```
+npm install
+npm run build
+npm i -g .
+```
+
+buat file json service_account.json (ini berisi keyprivate google api, googling aja cara buatnya).
+
+buat folder .gis
+
+nah file service_account.json kita copy kan juga kedalam folder .gis
+
+<img width="471" alt="Screenshot_5" src="https://github.com/gugunextra/google-indexing-script/assets/73726019/fe9baf09-5544-478d-977b-ae3dafbacbb6">
+
+
+# Cara Menjalankan
+ketik : npm run index www.namawebsiteanda.com
+
+Tunggu hasilnya hingga selesai
+
+Tutorial Lengkap Cek di bawah ini
+===============================================
+
 # Google Indexing Script
 
 Use this script to get your entire site indexed on Google in less than 48 hours. No tricks, no hacks, just a simple script and a Google API.
