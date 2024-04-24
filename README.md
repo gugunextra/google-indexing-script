@@ -3,7 +3,7 @@ Download Repository ini, lalu ekstak zip nya. Buka folder hasil ekstraknya, buka
 ```
 npm install
 npm run build
-npm i -g .
+npm i -g
 ```
 
 buat file json service_account.json (ini berisi keyprivate google api, googling aja cara buatnya atau bisa cek ini https://github.com/gugunextra/cara-membuat-API-google-indexing).
