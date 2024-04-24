@@ -6,7 +6,7 @@ npm run build
 npm i -g .
 ```
 
-buat file json service_account.json (ini berisi keyprivate google api, googling aja cara buatnya).
+buat file json service_account.json (ini berisi keyprivate google api, googling aja cara buatnya atau bisa cek ini https://github.com/gugunextra/cara-membuat-API-google-indexing).
 
 buat folder .gis
 
