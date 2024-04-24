@@ -17,13 +17,13 @@ nah file service_account.json kita copy kan juga kedalam folder .gis
 
 # Cara Menjalankan
 
-Edit file run.bat , ganti domainkamu.com
+Edit file run.bat , ganti domainanda.com
 
-Untuk manualnya ketik : npm run index www.namawebsiteanda.com 
+Untuk manualnya ketik : npm run index www.domainanda.com
 
 atau jika tidak jalan bisa gunakan 
 
-ketik : google-indexing-script www.websiteanda.com
+ketik : google-indexing-script www.domainanda.com
 
 
 
